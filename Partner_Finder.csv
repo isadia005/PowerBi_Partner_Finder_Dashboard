@@ -1,0 +1,51 @@
+Person,Age,Education,Job,Income,Hobbies,Family Background,Question1 (Career Ambition),Question2 (Family Oriented),Question3 (Work-Life Balance),Question4 (Social Preferences),Question5 (Lifestyle Preferences)
+Boy,28,Bachelors,Engineer,60000,Sports,Traditional,Very Ambitious,Yes,Important,Introvert,Healthy
+Boy,30,Masters,Doctor,80000,Music,Modern,Moderately Ambitious,No,Somewhat Important,Extrovert,Unhealthy
+Boy,27,Bachelors,Engineer,75000,Travel,Traditional,Very Ambitious,Yes,Very Important,Introvert,Healthy
+Boy,29,Masters,Artist,50000,Movies,Modern,Not Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Boy,31,Bachelors,Entrepreneur,90000,Photography,Traditional,Moderately Ambitious,No,Important,Introvert,Healthy
+Boy,32,Masters,Doctor,85000,Cooking,Modern,Very Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Boy,28,PhD,Engineer,70000,Travel,Traditional,Not Ambitious,Yes,Important,Introvert,Healthy
+Boy,26,PhD,Artist,50000,Music,Modern,Moderately Ambitious,No,Very Important,Extrovert,Unhealthy
+Boy,30,Bachelors,Entrepreneur,85000,Photography,Traditional,Very Ambitious,Yes,Somewhat Important,Introvert,Healthy
+Boy,29,Masters,Doctor,95000,Movies,Modern,Not Ambitious,No,Very Important,Extrovert,Unhealthy
+Boy,27,Bachelors,Engineer,65000,Sports,Traditional,Moderately Ambitious,Yes,Important,Introvert,Healthy
+Boy,32,PhD,Artist,90000,Cooking,Modern,Very Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Boy,31,Masters,Entrepreneur,75000,Photography,Traditional,Not Ambitious,No,Important,Introvert,Healthy
+Boy,30,PhD,Doctor,80000,Travel,Modern,Very Ambitious,Yes,Very Important,Extrovert,Unhealthy
+Boy,28,Bachelors,Engineer,70000,Music,Traditional,Moderately Ambitious,Yes,Somewhat Important,Introvert,Healthy
+Boy,26,Masters,Artist,75000,Sports,Modern,Very Ambitious,No,Very Important,Extrovert,Unhealthy
+Boy,29,Bachelors,Entrepreneur,90000,Movies,Traditional,Not Ambitious,Yes,Important,Introvert,Healthy
+Boy,27,Masters,Doctor,85000,Photography,Modern,Moderately Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Boy,30,Bachelors,Engineer,75000,Travel,Traditional,Very Ambitious,No,Very Important,Introvert,Healthy
+Boy,31,PhD,Artist,65000,Cooking,Modern,Not Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Boy,32,Masters,Entrepreneur,95000,Music,Traditional,Moderately Ambitious,Yes,Important,Introvert,Healthy
+Boy,28,PhD,Doctor,80000,Movies,Modern,Very Ambitious,No,Not Important,Extrovert,Unhealthy
+Boy,29,Bachelors,Engineer,85000,Sports,Traditional,Not Ambitious,Yes,Very Important,Introvert,Healthy
+Boy,27,Masters,Artist,75000,Travel,Modern,Moderately Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Boy,30,PhD,Entrepreneur,70000,Cooking,Traditional,Very Ambitious,No,Important,Introvert,Healthy
+Girl,25,Bachelors,Engineer,60000,Sports,Traditional,Very Ambitious,Yes,Important,Introvert,Healthy
+Girl,24,Masters,Doctor,80000,Music,Modern,Moderately Ambitious,No,Somewhat Important,Extrovert,Unhealthy
+Girl,26,Bachelors,Engineer,75000,Travel,Traditional,Very Ambitious,Yes,Very Important,Introvert,Healthy
+Girl,23,Masters,Artist,50000,Movies,Modern,Not Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Girl,27,Bachelors,Entrepreneur,90000,Photography,Traditional,Moderately Ambitious,No,Important,Introvert,Healthy
+Girl,28,Masters,Doctor,85000,Cooking,Modern,Very Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Girl,25,PhD,Engineer,70000,Travel,Traditional,Not Ambitious,Yes,Important,Introvert,Healthy
+Girl,26,PhD,Artist,50000,Music,Modern,Moderately Ambitious,No,Very Important,Extrovert,Unhealthy
+Girl,29,Bachelors,Entrepreneur,85000,Photography,Traditional,Very Ambitious,Yes,Somewhat Important,Introvert,Healthy
+Girl,24,Masters,Doctor,95000,Movies,Modern,Not Ambitious,No,Very Important,Extrovert,Unhealthy
+Girl,25,Bachelors,Engineer,65000,Sports,Traditional,Moderately Ambitious,Yes,Important,Introvert,Healthy
+Girl,23,PhD,Artist,90000,Cooking,Modern,Very Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Girl,27,Masters,Entrepreneur,75000,Photography,Traditional,Not Ambitious,No,Important,Introvert,Healthy
+Girl,28,PhD,Doctor,80000,Travel,Modern,Very Ambitious,Yes,Very Important,Extrovert,Unhealthy
+Girl,26,Bachelors,Engineer,70000,Music,Traditional,Moderately Ambitious,Yes,Somewhat Important,Introvert,Healthy
+Girl,29,Masters,Artist,75000,Sports,Modern,Very Ambitious,No,Very Important,Extrovert,Unhealthy
+Girl,25,Bachelors,Entrepreneur,90000,Movies,Traditional,Not Ambitious,Yes,Important,Introvert,Healthy
+Girl,23,Masters,Doctor,85000,Photography,Modern,Moderately Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Girl,24,Bachelors,Engineer,75000,Travel,Traditional,Very Ambitious,No,Very Important,Introvert,Healthy
+Girl,28,PhD,Artist,65000,Cooking,Modern,Not Ambitious,Yes,Not Important,Extrovert,Unhealthy
+Girl,29,Masters,Entrepreneur,95000,Music,Traditional,Moderately Ambitious,Yes,Important,Introvert,Healthy
+Girl,26,PhD,Doctor,80000,Movies,Modern,Very Ambitious,No,Not Important,Extrovert,Unhealthy
+Girl,23,Bachelors,Engineer,85000,Sports,Traditional,Not Ambitious,Yes,Very Important,Introvert,Healthy
+Girl,27,Masters,Artist,75000,Travel,Modern,Moderately Ambitious,Yes,Somewhat Important,Extrovert,Unhealthy
+Girl,25,PhD,Entrepreneur,70000,Cooking,Traditional,Very Ambitious,No,Important,Introvert,Healthy
